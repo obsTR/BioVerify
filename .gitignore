@@ -1,0 +1,54 @@
+### Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.venv/
+venv/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+htmlcov/
+.coverage
+
+### Node / React
+node_modules/
+ui/dist/
+ui/.vite/
+
+### Environment & secrets
+.env
+.env.*
+!.env.example
+backend/.env
+ui/.env
+
+### Editor / OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+.cursor/
+*.code-workspace
+
+### Docker
+docker-compose.override.yml
+
+### Local data / artifacts
+out_sample/
+*.log
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+### Prompt / scratch files
+prompts*.txt
+
+### Celery
+celerybeat-schedule
+celerybeat-schedule.db

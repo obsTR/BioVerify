@@ -31,7 +31,7 @@
 <div align="center">
 <img src="bioverify_sample.png" alt="BioVerify Screenshot — Evidence Dashboard" width="720" />
 <br />
-<img src="bioverify_sample2.png" alt="BioVerify Screenshot — Evidence Dashboard 2" width="720" />
+<img src="bioverify_sample-2.png" alt="BioVerify Screenshot — Evidence Dashboard 2" width="720" />
 <br />
 <sub><b>Evidence Dashboard</b> — Face & ROI visualizations with rPPG signal traces extracted from forehead and cheek regions.</sub>
 </div>
